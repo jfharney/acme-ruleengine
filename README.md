@@ -24,6 +24,9 @@ import pyke
 
 If there is an error there is a path issue.  Try installing pyke again.
 
+### Celery
+
+Celery is a task queue management system for incoming requests.  This is needed in case the rules engine takes time to produce a goal or to reason about the rules and facts.
 
  
 
